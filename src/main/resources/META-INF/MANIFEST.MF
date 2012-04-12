@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bundle-Vendor: Nuxeo
+Bundle-ActivationPolicy: lazy
+Bundle-ClassPath: .
+Bundle-Version: 5.5
+Bundle-Name: nuxeo-configuration-management-poc
+Nuxeo-Component: OSGI-INF/extensions/org.nuxeo.configurationmanagement
+ .baseline.BaselineConfiguration.xml
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: nuxeo-configuration-management-poc
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+
