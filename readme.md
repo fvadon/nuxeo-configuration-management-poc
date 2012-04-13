@@ -7,6 +7,9 @@ The operation  is launched from a baseline doc type (sub sub level of a Configur
 It recreates (recursively) the tree of the Configuration and create a proxy for the last major version of all documents.
 So the baseline is finally a snapshot of all last major version of documents.
 
+The complete documentation on the configuration management template is available here:
+http://doc.nuxeo.com/x/b4Ce
+
 ## How to build
 
 You can build the BaselineConfiguraiton operation with:
